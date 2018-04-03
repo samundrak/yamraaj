@@ -1,10 +1,14 @@
 {
   "name": "yamraaj",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node process killer",
   "main": "index.js",
+  "bin": {
+    "yamraaj": "./bin/index.js"
+  },
   "scripts": {
-    "test": "jest tests/"
+    "test": "jest tests/",
+    "ping": "yamraaj"
   },
   "keywords": [],
   "author": "",
