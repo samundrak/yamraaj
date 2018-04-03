@@ -1,0 +1,7 @@
+{
+  "exposeApi": true,
+  "filePath": "/home/samundrak/projects/yamraaj/pids.json",
+  "port": 2121,
+  "exitOnComplete": false,
+  "exitOnError": true
+}
